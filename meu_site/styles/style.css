@@ -1,0 +1,11 @@
+body{
+    /*background-color: black;*/
+    background-image: url(../src/images/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    background-color: black;
+    color: rgb(148, 0, 211);
+}
