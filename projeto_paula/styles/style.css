@@ -1,0 +1,49 @@
+body {
+  background-color: #272727;
+  color: #e5e7e8;
+}
+
+h1 {
+  color: #eff1f3;
+}
+
+h3 {
+  color: #eff1f3;
+}
+
+
+a{
+    color: #e5e7e8;
+    text-decoration: none;
+}
+
+section.introducao {
+  background-color: #696773;
+  padding: 15px;
+  border-radius: 10px;
+  outline: 1px solid #fed766;
+}
+
+section.rita-lee {
+  background-color: #696773;
+  margin-top: 30px;
+  padding: 15px;
+  border-radius: 10px;
+  outline: 1px solid #fed766;
+}
+
+section.cazuza {
+  background-color: #696773;
+  margin-top: 30px;
+  padding: 15px;
+  border-radius: 10px;
+  outline: 1px solid #fed766;
+}
+
+section.gal-costa {
+  background-color: #696773;
+  margin-top: 30px;
+  padding: 15px;
+  border-radius: 10px;
+  outline: 1px solid #fed766;
+}
