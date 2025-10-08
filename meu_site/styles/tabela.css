@@ -1,0 +1,38 @@
+body {
+  background-image: url(../src/images/shinobu-kocho-dark-3840x2160-18348.png);
+  background-size: cover;
+  background-position: center;
+  color: aliceblue;
+}
+
+table {
+  border: 1px solid black;
+  width: 400px;
+  border-spacing: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: purple;
+}
+
+th {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: blueviolet;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+  background-image: url(../src/images/Rafifa.png);
+  background-size: cover;
+  background-position: center;
+}
+
+div {
+  border: 1px solid rgb(53, 32, 216);
+}
+
+div > div {
+  border: 3px solid rgb(53, 32, 216);
+}
+
